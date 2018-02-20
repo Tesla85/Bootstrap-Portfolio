@@ -1,3 +1,84 @@
-.body {
-    background-image: url("https://raw.githubusercontent.com/Tesla85/Basic-Portfolio/master/vintage-concrete.png");
+
+    
+body {
+        background-image: url(background.jpg);
+        background-repeat: no-repeat;
+        background-size: auto;
+
+        } 
+
+.p { 
+        color: white;
+        font-size: 18px;
+    }
+
+.div {   
+        background-color: #57acf1;
+        width: 450px;
+        border: 5px solid white;
+        padding: 5px;
+        margin: left;   
+        }
+
+.connect { 
+        color: #f3f1eb;
+        background-color: #57acf1;
+        width: 260px;
+        height: 250px;
+        border: 5px solid white;
+        padding: 5px;
+        margin: auto;
+        float: right;
+        font-size: 30px;
+            }
+.brandt {
+       
+        background-color: rgb(13, 231, 213);
+        width: 210px;
+        height: 85px;
+        font-size: 35px;
 }
+
+.eat {
+        width: 350px;
+        height: 300px;
+        background: white;
+}
+
+.blacksmith{
+        width: 350px;
+        height: 300px;
+        background: white;
+}
+
+.water{
+        width: 350px;
+        height: 300px;
+        background: white;
+}
+
+.footer { 
+        position: relative;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        padding: 15px;
+        border-top: 5px solid rgb(13, 231, 213);
+        background: #57acf1;
+        text-align: center;
+        color: #777777;
+        height:60px;
+       
+        }
+.about {
+        color: white;   
+}
+
+.pic-col {
+    background: white;
+    width: 1%;
+    height: 90%;
+}
+        
+     
